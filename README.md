@@ -11,4 +11,4 @@ You are a data analyst and an SQL expert. You have to use SQL to analyse the giv
 
  
 
-The SQL script file for the questions is given below.
+The SQL script file for the same is given below.
